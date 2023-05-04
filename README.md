@@ -3,7 +3,7 @@
 
 I am a developer who builds all projects from scratch starting from UI / UX ending with databases. My main technology is JavaScript / React, but I use technologies such as Firebase or Node.js for my projects. Every day I try to add something from myself to this digital world by creating new projects and solving problems with the code.`
 
-### 🧰️ Languages and Tools
+# 🧰️ Languages and Tools
 
 <!--
 **AsskiN/AsskiN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
