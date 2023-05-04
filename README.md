@@ -19,5 +19,5 @@ I am a developer who builds all projects from scratch starting from UI / UX endi
 
 ### 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsskiN&show_icons=true&theme=radical) <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsskiN&show_icons=true&theme=radical) <br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsskiN&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
