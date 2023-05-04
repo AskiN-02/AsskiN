@@ -18,3 +18,5 @@ I am a developer who builds all projects from scratch starting from UI / UX endi
 #
 
 ### 📊 Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsskiN)](https://github.com/anuraghazra/github-readme-stats)
