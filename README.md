@@ -1,5 +1,5 @@
 # Dawid Kraśnicki
-### 🧑‍💻Front-end developer
+**`🧑‍💻Front-end developer`**
 
 <!--
 **AsskiN/AsskiN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
